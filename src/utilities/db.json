@@ -1,0 +1,128 @@
+{
+	"countries": [
+		{
+			"name": "United States",
+			"states": [
+				{
+					"name": "California",
+					"districts": [
+						{
+							"name": "Los Angeles",
+							"cities": ["Los Angeles", "Santa Monica"]
+						},
+						{
+							"name": "San Francisco",
+							"cities": ["San Francisco", "Oakland"]
+						}
+					]
+				},
+				{
+					"name": "New York",
+					"districts": [
+						{
+							"name": "Manhattan",
+							"cities": ["New York City"]
+						},
+						{
+							"name": "Brooklyn",
+							"cities": ["Brooklyn"]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "India",
+			"states": [
+				{
+					"name": "Maharashtra",
+					"districts": [
+						{
+							"name": "Mumbai",
+							"cities": ["Mumbai", "Thane"]
+						},
+						{
+							"name": "Pune",
+							"cities": ["Pune", "Satara"]
+						}
+					]
+				},
+				{
+					"name": "Karnataka",
+					"districts": [
+						{
+							"name": "Bangalore Urban",
+							"cities": ["Bangalore"]
+						},
+						{
+							"name": "Mysuru",
+							"cities": ["Mysuru"]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "United Kingdom",
+			"states": [
+				{
+					"name": "England",
+					"districts": [
+						{
+							"name": "London",
+							"cities": ["London", "Manchester"]
+						},
+						{
+							"name": "Liverpool",
+							"cities": ["Liverpool"]
+						}
+					]
+				},
+				{
+					"name": "Scotland",
+					"districts": [
+						{
+							"name": "Edinburgh",
+							"cities": ["Edinburgh", "Glasgow"]
+						},
+						{
+							"name": "Aberdeen",
+							"cities": ["Aberdeen"]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Canada",
+			"states": [
+				{
+					"name": "Ontario",
+					"districts": [
+						{
+							"name": "Toronto",
+							"cities": ["Toronto", "Mississauga"]
+						},
+						{
+							"name": "Ottawa",
+							"cities": ["Ottawa"]
+						}
+					]
+				},
+				{
+					"name": "Quebec",
+					"districts": [
+						{
+							"name": "Montreal",
+							"cities": ["Montreal", "Quebec City"]
+						},
+						{
+							"name": "Sherbrooke",
+							"cities": ["Sherbrooke"]
+						}
+					]
+				}
+			]
+		}
+	]
+}
